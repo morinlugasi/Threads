@@ -1,5 +1,7 @@
 package Ex2;
 
+//Heba Abukaf ID: 323980441
+//Morin Lugasi ID: 207576067
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
